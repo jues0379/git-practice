@@ -1,0 +1,178 @@
+    1  ls
+    2  cd source
+    3  ls
+    4  cd MINGW64
+    5  li
+    6  reset
+    7  ls
+    8  cd OSS
+    9  cd ..
+   10  ls
+   11  cd OSS
+   12  cd ..
+   13  cd OSS
+   14  ls
+   15  pwd
+   16  ls
+   17  ls -l
+   18  ls -lh
+   19  cd ..
+   20  ls -lh
+   21  cd OSS
+   22  ls
+   23  ls -l
+   24  ls -lh
+   25  ls
+   26  ls -l
+   27  ls -lh
+   28  ls -la
+   29  ls
+   30  cd 새\ 텍스트\ 문서.txt 
+   31  ls
+   32  cd vixzivoh/
+   33  ohhhh
+   34  ..
+   35  cd ..
+   36  ls
+   37  vzfdi/
+   38  cd ..
+   39  cd ..
+   40  cd ..
+   41  cd ..
+   42  cd ..
+   43  cd ..
+   44  cd ...
+   45  cd c
+   46  pwd
+   47  /Users
+   48  cd Users/jues0
+   49  cd c
+   50  ls
+   51  cd OSS
+   52  ls
+   53  ls
+   54  clear
+   55  ls
+   56  ls
+   57  cd v
+   58  cd vixz/
+   59  ls
+   60  ls
+   61  cp hi.txt hello.txt
+   62  ls
+   63  cp -r ../1 .
+   64  ls
+   65  cd 1
+   66  ls
+   67  pwd
+   68  clear
+   69  pwd
+   70  cd ../..
+   71  ls
+   72  ls
+   73  cd vi
+   74  cd vixz/
+   75  ls
+   76  mv hello.txt bye.txt
+   77  ls
+   78  hi.txt ../vzfdi/
+   79  mv hi.txt ../vzfdi/
+   80  ls
+   81  cd ..
+   82  ls
+   83  cd vzfdi/
+   84  ls
+   85  cd ..
+   86  ls
+   87  rm 1
+   88  rm -r 1
+   89  ls
+   90  cd vzfdi/
+   91  ls
+   92  rm hi.txt
+   93  ls
+   94  cd ..
+   95  ls
+   96  mkdir new_directory
+   97  ls
+   98  *
+   99  cl *
+  100  ls *
+  101  ls
+  102  help ls
+  103  help
+  104  help ls
+  105  help cd
+  106  man
+  107  man cp
+  108  clear
+  109  help
+  110  help time
+  111  clear
+  112  exit
+  113  hi
+  114  clear
+  115  ls
+  116  cd OSS
+  117  l
+  118  ls
+  119  exit
+  120  ls
+  121  cd OSS
+  122  ls
+  123  -l
+  124  -ls
+  125  -lh
+  126  ls -l
+  127  clear
+  128  ls
+  129  ls -l
+  130  ls -ls
+  131  ls -lh
+  132  ls -lh > file_list.txt
+  133  cat file_list.txt
+  134  ls - lh>> file_list.txt
+  135  ls -lh >> file_list.txt
+  136  cat file_list.txt
+  137  ls
+  138  cd words.txt
+  139  cat words.txt
+  140  sort < words.txt
+  141  sort < words.txt > sorted_words.txt
+  142  cat sorted_words.txt
+  143  ||||||||||||||||||||||||||||||||||||
+  144  clear
+  145  ls
+  146  ls -lh | less
+  147  ls | wc -l
+  148  echo fidjf
+  149  echo *
+  150  echo ~
+  151  ls -l reverse
+  152  ls -l --reverse
+  153  ls -l --reverse --human-readable
+  154  ls -r
+  155  ls -h
+  156  ls -l \bin
+  157  ls -l /bin/bash
+  158  ls -l
+  159  chmod 700 2
+  160  ls -l
+  161  chmod 700 test.txt
+  162  chmod 700 text.txt
+  163  ls -l
+  164  chmod 644 words.txt
+  165  ls -l
+  166  chmod 654 words.txt
+  167  ls -l
+  168  chmod 664 words.txt
+  169  ls -l
+  170  ls -lh
+  171  #id
+  172  #echo
+  173  echo h
+  174  txt myscript.sh
+  175  sh myscript.txt
+  176  history
+  177  history \ less
+  178  history > history.txt
